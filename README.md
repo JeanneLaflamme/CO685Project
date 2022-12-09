@@ -1,7 +1,7 @@
 # CO685Project
-Final project for CO685: The Mathematics of Public-key Cryptography
+This is my final project for the course CO685: The Mathematics of Public-key Cryptography at University of waterloo.
 
-This is an Implementation in Julia of the Castryck Decru attack on SIKE (https://eprint.iacr.org/2022/975.pdf)
+It is an Implementation in Julia of the Castryck Decru attack on SIKE (https://eprint.iacr.org/2022/975.pdf)
 
 The file curves.jl contains my own implementation of elliptic and hyperelliptic curve arithmetic as well as an implementation of the Weil pairing and Velu's formulas for isogenies which I could not find in Julia
 
